@@ -1,0 +1,37 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+.main-background-color {
+    background-color: #1f2544;
+}
+
+.nav-link,
+.navbar-brand,
+.navbar-brand.active,
+.navbar-brand.show {
+    color: #ffd0ec !important;
+}
+
+.nav-link:hover,
+.nav-link.active,
+.nav-link.show {
+    color: #81689d !important;
+}
+
+body {
+    background-color: #474f7a;
+}
+
+.project-dropdown, .project-dropdown.active,
+.project-dropdown.show {
+    background-color: #ffd0ec!important;
+    color: #1f2544!important;
+}
+
+.card{
+    background-color: #1f2544;
+}
+
+.custom-section .col, .custom-section label, .custom-section .card-header{
+    color: #fff;
+}
