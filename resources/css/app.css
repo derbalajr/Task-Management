@@ -35,3 +35,7 @@ body {
 .custom-section .col, .custom-section label, .custom-section .card-header{
     color: #fff;
 }
+
+.card-body p{
+    color: #fff;
+}
